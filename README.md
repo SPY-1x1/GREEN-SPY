@@ -1,9 +1,9 @@
 # GREEN-SPY
 file Clonnig
 
-```
+# COMMAND
 
-## Command
+```
 
 😈 pkg update
 😈 pkg upgrade
