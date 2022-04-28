@@ -3,7 +3,7 @@ file Clonnig
 
 ```
 
-##Command
+## Command
 
 😈 pkg update
 😈 pkg upgrade
