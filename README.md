@@ -17,4 +17,4 @@ file Clonnig
 😈 cd GREEN-SPY
 😈 python Spy.py
 
-👉Note : (This Tools Paid 15 days 500 tk Free Not Allow)
+👉Note : (This Tools Paid 15 days 400 tk Free Not Allow)
